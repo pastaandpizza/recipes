@@ -12,3 +12,10 @@
 
 [Pizza Margherita - wersja do pieca domowego](pl-pizza-margherita-wersja-do-pieca-domowego.md)
 
+## Naleśniki i racuchy
+
+[Crepes](pl-crepes.md)
+
+## Desery
+
+[Jogurt z orzechami włoskimi i miodem](pl-jogurt-z-orzechami-wloskimi-i-miodem.md)

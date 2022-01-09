@@ -8,7 +8,7 @@
 -   sól niejodowana, bez przeciwzbrylaczy 1kg,
 -   wino białe, wytrawne/pół wytrawne 100ml,
 -   pieprz czarny cały 2 łyżeczki płaskie,
--   pieprz czarny/czerwona ostra papryka w płatkach do przypuszenia ostatecznego,
+-   pieprz czarny/czerwona ostra papryka w płatkach do przyprószenia ostatecznego,
 -   koper włoski w nasionach 2 łyżeczki płaskie,
 -   ostra papryka w płatkach (może być [koreańska](https://en.wikipedia.org/wiki/Korean_chili_pepper)) 0.5 łyżeczki,
 -   zależnie od upodobania, 1-2 duże liście laurowe,

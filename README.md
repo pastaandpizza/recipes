@@ -12,6 +12,9 @@
 
 [Pizza Margherita - wersja do pieca domowego](pl-pizza-margherita-wersja-do-pieca-domowego.md)
 
+## Wędliny
+[Guanciale - podgardle dojrzewające](pl-guanciale.md)
+
 ## Naleśniki i racuchy
 
 [Crepes](pl-crepes.md)

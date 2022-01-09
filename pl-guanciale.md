@@ -27,7 +27,7 @@
 
 1. Pieprz, paprykę, liść laurowy i koper ucieramy w moździerzu/młynku na zgrubny proszek (nie za drobno).
 2. Dodajemy dwie kopiaste łyżki soli do utartych przypraw i mieszamy.
-3. Podgardle przygotowujemy: oczyszczamy z bardzo luźnych kwaków mięsa odcinając je.
+3. Podgardle przygotowujemy: oczyszczamy z bardzo luźnych kawałków mięsa odcinając je.
 4. Ważymy podgardle i zapisujemy na później.
 5. Do naczynia szklanego wsypujemy tyle soli by zakryła ona spód 1cm warstwą.
 6. Z każdej strony, dokładnie nacieramy podgardle przygotowaną mieszanką przypraw i soli.

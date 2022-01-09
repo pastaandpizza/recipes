@@ -4,7 +4,7 @@
 
 ### Składniki
 
--   podgardle surowe ~500g,
+-   podgardle surowe ~500gr,
 -   sól niejodowana, bez przeciwzbrylaczy 1kg,
 -   wino białe, wytrawne/pół wytrawne 100ml,
 -   pieprz czarny cały 2 łyżeczki płaskie,

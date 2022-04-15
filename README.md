@@ -13,6 +13,7 @@
 [Pizza Margherita - wersja do pieca domowego](pl-pizza-margherita-wersja-do-pieca-domowego.md)
 
 ## Wędliny
+
 [Guanciale - podgardle dojrzewające](pl-guanciale.md)
 
 ## Naleśniki i racuchy
@@ -22,3 +23,7 @@
 ## Desery
 
 [Jogurt z orzechami włoskimi i miodem](pl-jogurt-z-orzechami-wloskimi-i-miodem.md)
+
+## Makarony
+
+[Makaron](pl-makaron-penne-z-sosem-smietanowo-serowym.md)

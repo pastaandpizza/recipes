@@ -4,17 +4,17 @@
 
 ### Ciasto na 2 pizze
 
--   mąka pszenna typu 00, 13-15% białka 400g,
--   chłodna woda z kranu 268ml,
--   drożdże suche 2.5gr,
+-   mąka pszenna typu 00, 13-15% białka: 400g,
+-   chłodna woda z kranu: 268ml,
+-   drożdże suche: 2.5gr,
 -   sól 11g,
 
 ### Sos na jedną pizzę
 
--   passata pomidorowa 5 łyżek ~70gr,
--   oliwa z oliwek  2 łyżki ~26.6gr,
--   szczypta soli ~0.36gr,
--   średnie liście bazylii 3-4 sztuki,
+-   passata pomidorowa 5 łyżek: ~70gr,
+-   oliwa z oliwek 2 łyżki: ~26.6gr,
+-   szczypta soli: ~0.36gr,
+-   średnie liście bazylii: 3-4 sztuki,
 
 ### Dodatki
 

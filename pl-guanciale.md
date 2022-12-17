@@ -1,3 +1,8 @@
+---
+title: "Guanciale - podgardle dojrzewające"
+categories: ["Wędliny"]
+---
+
 # Guanciale
 
 ## Składniki

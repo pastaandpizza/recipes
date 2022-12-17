@@ -1,3 +1,8 @@
+---
+title: "Kotleciki z jajek i sosem beszamel"
+categories: ["Kotlety"]
+---
+
 # Kotleciki z jajek i sosem beszamel
 
 ## Składniki

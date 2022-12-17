@@ -1,3 +1,8 @@
+---
+title: "Pizza Margherita - wersja do pieca domowego"
+categories: ["Pizza"]
+---
+
 # Pizza Margherita - wersja do pieca domowego
 
 ## Składniki

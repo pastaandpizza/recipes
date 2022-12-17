@@ -1,3 +1,8 @@
+---
+title: "Nazwa przepisu/potrawy"
+categories: ["Przykładowa kategoria"]
+---
+
 # Nazwa przepisy/potrawy
 
 _Komentarze do szablonu są zapisane kursywą_

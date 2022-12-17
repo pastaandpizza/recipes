@@ -4,21 +4,26 @@
 
 [Szablon](pl-template.md)
 
+## Desery
+
+- [Jogurt z orzechami włoskimi i miodem](pl-jogurt-z-orzechami-wloskimi-i-miodem.md)
+
 ## Kotlety
 
-[Kotleciki ziemniaczane z jajek](pl-kotleciki-ziemniaczane-z-jajek.md)
-
-## Pizza
-
-[Pizza Margherita - wersja do pieca domowego](pl-pizza-margherita-wersja-do-pieca-domowego.md)
-
-## Wędliny
-[Guanciale - podgardle dojrzewające](pl-guanciale.md)
+- [Kotleciki z jajek i sosem beszamel](pl-kotleciki-ziemniaczane-z-jajek.md)
 
 ## Naleśniki i racuchy
 
-[Crepes](pl-crepes.md)
+- [Crepes](pl-crepes.md)
 
-## Desery
+## Pizza
 
-[Jogurt z orzechami włoskimi i miodem](pl-jogurt-z-orzechami-wloskimi-i-miodem.md)
+- [Pizza Margherita - wersja do pieca domowego](pl-pizza-margherita-wersja-do-pieca-domowego.md)
+
+## Wędliny
+
+- [Guanciale - podgardle dojrzewające](pl-guanciale.md)
+
+---
+
+Wygenerowano `2022-12-17 17:28:26`

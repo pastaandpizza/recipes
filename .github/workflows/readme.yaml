@@ -1,0 +1,44 @@
+name: Update README.md
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - "pl-*.md"
+      - "!pl-template.md"
+  workflow_dispatch: {}
+
+jobs:
+  deploy:
+    name: Update README.md
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Set up Go
+        uses: actions/setup-go@v2
+        with:
+          go-version: 1.19
+      - name: Set up Node
+        uses: actions/setup-node@v1
+      - name: Prepare directories
+        uses: actions/checkout@v2
+        with:
+          repository: pastaandpizza/readmegen
+          path: ./.tools
+      - name: Build readmegen
+        working-directory: ./.tools
+        run: go build .
+      - name: Move readmegen
+        run: mv .tools/readmegen .
+      - name: Run readmegen
+        run: ./readmegen -template .tools/templates/readme.gotmpl $(ls pl-*.md | grep -v "pl-template.md")
+        continue-on-error: false
+      - name: Push changes
+        uses: test-room-7/action-update-file@v1
+        with:
+          file-path: README.md
+          commit-msg: "readme: rebuild contents"
+          github-token: ${{ secrets.GITHUB_TOKEN }}

@@ -1,5 +1,8 @@
 ---
 title: "Pizza Margherita - wersja do pieca domowego"
+excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+coverImage: "/assets/blog/default/cover.jpg"
+date: "2020-03-16T05:35:07.322Z"
 categories: ["Pizza"]
 ---
 
@@ -9,23 +12,23 @@ categories: ["Pizza"]
 
 ### Ciasto na 2 pizze
 
--   mąka pszenna typu 00, 13-15% białka: 400g,
--   chłodna woda z kranu: 268ml,
--   drożdże suche: 2.5gr,
--   sól 11g,
+- mąka pszenna typu 00, 13-15% białka: 400g,
+- chłodna woda z kranu: 268ml,
+- drożdże suche: 2.5gr,
+- sól 11g,
 
 ### Sos na jedną pizzę
 
--   passata pomidorowa 5 łyżek: ~70gr,
--   oliwa z oliwek 2 łyżki: ~26.6gr,
--   szczypta soli: ~0.36gr,
--   średnie liście bazylii: 3-4 sztuki,
+- passata pomidorowa 5 łyżek: ~70gr,
+- oliwa z oliwek 2 łyżki: ~26.6gr,
+- szczypta soli: ~0.36gr,
+- średnie liście bazylii: 3-4 sztuki,
 
 ### Dodatki
 
-* jedna kulka mozzarelli,
-* średnie liście bazylii do smaku,
-* oliwa z oliwek do smaku,
+- jedna kulka mozzarelli,
+- średnie liście bazylii do smaku,
+- oliwa z oliwek do smaku,
 
 ## Przygotowanie
 
@@ -43,7 +46,7 @@ categories: ["Pizza"]
 10. Jeśli wszytko się udało to po 4h wyrastania na zwenątrz, ciasto powinno się wizualnie zwiększyć (~2x).
 11. Do miski/talerza który pomieści nasze ciasto, wsypujemy sporo mąki i obtaczamy delikatnie ciasto, starając się nie wybić z niego $$CO^2$$​. Mąki na cieście powinno pozostać tyle by się nie kleiło do rąk/blatu, ale nie więcej.
 12. Na prostokącie papieru do pieczenia rozmiaru naszej blachy/kamienia do pieczenia, kładziemy obtoczone w mące ciasto i [formujemy placek](https://youtu.be/BA-o41np8Tk?t=446).
-13. Smarujemy placek sosem, tak by pozostawić brzeg na szerokość ~3cm. Polecam pomóc sobie łyżką. Placek można, w razie potrzeby,  lekko "naciągnąć" do bardziej kolistego kształtu.
+13. Smarujemy placek sosem, tak by pozostawić brzeg na szerokość ~3cm. Polecam pomóc sobie łyżką. Placek można, w razie potrzeby, lekko "naciągnąć" do bardziej kolistego kształtu.
 14. Wsuwamy pod papier i ciasto packę do pizzy lub drugą (zimną) blachę i transferujemy ciasto do piekarnika (z papierem powinno się ładnie zsunąć). Pieczemy 5 min.
 15. Po tym czasie wyciągamy placek użyciem packi/blachy i układamy na nim mozzarellę. Polecam nie kroić, a raczej rozrywać kulkę na warstwy i takie cienkie "płaty" sera kłaść równomiernie na placek.
 16. Skrapiamy składniki oliwą z oliwek i ponownie wkładamy do gorącego piekarnika - tym razem na 2-3min.

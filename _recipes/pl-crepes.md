@@ -1,5 +1,8 @@
 ---
 title: "Crepes"
+excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+coverImage: "/assets/blog/default/cover.jpg"
+date: "2020-03-16T05:35:07.322Z"
 categories: ["Naleśniki i racuchy"]
 ---
 
@@ -9,25 +12,26 @@ categories: ["Naleśniki i racuchy"]
 
 ### Ciasto
 
--   3 średnie jaja,
--   mąka pszenna typu 00/babuni 200g,
--   chłodna woda z kranu 200ml,
--   mleko 200ml,
--   drożdże świeże lub suche 1gr,
--   sól 3g,
--   cukier biały 10g,
--   masło 30g + tyle co do smarowania patelni,
--   ekstrakt waniliowy łyżeczka do herbaty,
+- 3 średnie jaja,
+- mąka pszenna typu 00/babuni 200g,
+- chłodna woda z kranu 200ml,
+- mleko 200ml,
+- drożdże świeże lub suche 1gr,
+- sól 3g,
+- cukier biały 10g,
+- masło 30g + tyle co do smarowania patelni,
+- ekstrakt waniliowy łyżeczka do herbaty,
 
 ### Utensylia
--   coś do mieszania - najlepiej trzepaczka
--   miska do przygotowania ciasta
--   chochelka
--   patelnia do smażenia - byle by nie najmniejsza
+
+- coś do mieszania - najlepiej trzepaczka
+- miska do przygotowania ciasta
+- chochelka
+- patelnia do smażenia - byle by nie najmniejsza
 
 ### Dodatki
 
-* do smaku
+- do smaku
 
 ## Przygotowanie
 

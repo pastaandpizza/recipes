@@ -1,5 +1,8 @@
 ---
 title: "Guanciale - podgardle dojrzewające"
+excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+coverImage: "/assets/blog/default/cover.jpg"
+date: "2020-03-16T05:35:07.322Z"
 categories: ["Wędliny"]
 ---
 
@@ -9,24 +12,24 @@ categories: ["Wędliny"]
 
 ### Składniki
 
--   podgardle surowe ~500gr,
--   sól niejodowana, bez przeciwzbrylaczy 1kg,
--   wino białe, wytrawne/pół wytrawne 100ml,
--   pieprz czarny cały 2 łyżeczki płaskie,
--   pieprz czarny/czerwona ostra papryka w płatkach do przyprószenia ostatecznego,
--   koper włoski w nasionach 2 łyżeczki płaskie,
--   ostra papryka w płatkach (może być [koreańska](https://en.wikipedia.org/wiki/Korean_chili_pepper)) 0.5 łyżeczki,
--   zależnie od upodobania, 1-2 duże liście laurowe,
+- podgardle surowe ~500gr,
+- sól niejodowana, bez przeciwzbrylaczy 1kg,
+- wino białe, wytrawne/pół wytrawne 100ml,
+- pieprz czarny cały 2 łyżeczki płaskie,
+- pieprz czarny/czerwona ostra papryka w płatkach do przyprószenia ostatecznego,
+- koper włoski w nasionach 2 łyżeczki płaskie,
+- ostra papryka w płatkach (może być [koreańska](https://en.wikipedia.org/wiki/Korean_chili_pepper)) 0.5 łyżeczki,
+- zależnie od upodobania, 1-2 duże liście laurowe,
 
 ### Utensylia
 
--   nóż
--   deska do krojenia
--   szpikulec do szaszłyków / pałeczka do jedzenia
--   szklane naczynie które pomieści podgardle i sól
--   moździerz / młynek do przypraw
--   sznurek wędliniarski / stalowy hak do mięsa
--   waga kuchenna
+- nóż
+- deska do krojenia
+- szpikulec do szaszłyków / pałeczka do jedzenia
+- szklane naczynie które pomieści podgardle i sól
+- moździerz / młynek do przypraw
+- sznurek wędliniarski / stalowy hak do mięsa
+- waga kuchenna
 
 ## Przygotowanie
 

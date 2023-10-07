@@ -1,0 +1,26 @@
+name: "recipes: deploy blog"
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "pl-*.md"
+      - "!pl-template.md"
+
+jobs:
+  trigger_workflows:
+    environment: deploySSG
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Trigger blog deploy workflow"
+        uses: "convictional/trigger-workflow-and-wait@v1.6.1"
+        with:
+          github_token: ${{ secrets.ACCESS_TOKEN_BLOG_REPO_ACTIONS }}
+          owner: pastaandpizza
+          repo: blog
+          workflow_file_name: nextjs.yml
+          ref: main
+          wait_interval: 10
+          propagate_failure: true
+          trigger_workflow: true
+          wait_workflow: true
